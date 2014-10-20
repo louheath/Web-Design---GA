@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>About Lou Heath</title>
+	</head>
+
+	<body>
+		<h1>About Me</h1>
+		
+		<p>I'm an esthetician and business owner, living in Washington State.  I became interested in Front-End Web Designing and Development because I have always had an eye for design and have 2 businesses, but I don't know how to translate that into an amazing website!</p>
+
+		<h2>My Mission</h2>
+
+		<p>As I learn more about front-end, I hope to one day work as a freelance web designer because I like to work in a creative environment.</p>
+
+		<h2>My Experience</h2>
+
+		<p>This is how I've evolved professionally:</P>
+			<ul>
+				<li><strong>Retail Specialist</strong>, Juicy Couture
+					<br><em>Seattle, 12/2009-6/2010</em></br></li>
+				<li><strong>Esthetician</strong>, duque salon + spa + boutique
+					<br><em>Seattle, 4/2010-Present</em><br></li>
+				<li><strong>Owner</strong>, Love Love Darling
+					<br><em>Seattle, 1/2013-Present</i></em></li>
+			</ul>
+
+		<h2>Education</h2>
+			<ul>
+				<li><strong>American Ethnic Studies</strong>, University of Washington
+				<br><em>Seattle, WA, 6/2011</em></br></li>
+			</ul>
+
+		<h2>Other</h2>
+
+		<p>If you're interested in collaborating with me on a project, feel free to email me at: <a href="mailto:louielou424@gmail.com">louielou424@gmail.com</a>.</P>
+
+	</body>
+
+</html>
